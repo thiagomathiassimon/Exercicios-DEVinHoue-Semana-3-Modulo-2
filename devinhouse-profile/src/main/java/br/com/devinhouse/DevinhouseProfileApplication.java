@@ -1,13 +1,13 @@
-package exercicios.profile.devinhouse.demo;
+package br.com.devinhouse;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoApplication {
+public class DevinhouseProfileApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);
+		SpringApplication.run(DevinhouseProfileApplication.class, args);
 	}
 
 }
