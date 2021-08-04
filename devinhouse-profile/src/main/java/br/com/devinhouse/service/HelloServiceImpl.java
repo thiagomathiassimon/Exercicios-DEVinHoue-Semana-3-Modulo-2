@@ -1,4 +1,4 @@
-package br.com.devinhouse.Service;
+package br.com.devinhouse.service;
 
 import org.springframework.stereotype.Service;
 

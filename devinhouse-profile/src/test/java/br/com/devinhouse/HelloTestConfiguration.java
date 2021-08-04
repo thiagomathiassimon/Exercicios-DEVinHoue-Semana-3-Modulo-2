@@ -3,7 +3,7 @@ package br.com.devinhouse;
 import org.springframework.boot.test.context.TestConfiguration;
 import org.springframework.context.annotation.Bean;
 
-import br.com.devinhouse.Service.HelloService;
+import br.com.devinhouse.service.HelloService;
 
 @TestConfiguration
 public class HelloTestConfiguration {

@@ -1,4 +1,4 @@
-package br.com.devinhouse.Service;
+package br.com.devinhouse.service;
 
 public interface HelloService {
 	String sayHello(String forWho);
